@@ -1,0 +1,30 @@
+|=============================================================================|
+|                                                                             |
+|                                                                             |
+|   ||    ||    || |||||||| ||        ||||   ||||   ||      || ||||||||       |
+|   ||    ||    || ||       ||       ||     ||  ||  ||||  |||| ||             |
+|   ||    ||    || ||       ||      ||     ||    || || |||| || ||             |
+|    ||  ||||  ||  |||||||| ||      ||     ||    || ||  ||  || ||||||||       |
+|    ||  ||||  ||  ||       ||      ||     ||    || ||      || ||             |
+|     ||||  ||||   ||       ||       ||     ||  ||  ||      || ||             |
+|      ||    ||    |||||||| |||||||   ||||   ||||   ||      || ||||||||       |
+|                                                                             |
+|          ||||||   ||||      ||||   ||||  |||||  ||  ||                      |
+|            ||    ||  ||    ||     ||        ||  || ||                       |
+|            ||    ||  ||   ||     ||      |||||  ||||                        |
+|            ||    ||  ||    ||     ||        ||  |||||                       |
+|            ||     ||||      ||||   ||||  |||||  ||  ||                      |
+|                                                                             |
+|                   Press any other keys to QUIT                              |
+|                Press "c" for playing by using command                       |
+|              Press "e" for easy playing, by using WASD                      |
+|                                                                             |
+|     ?: ????                 g: Goblin  (steal money after smashing)         |
+|     s: Shade (High Score)   v: Vampire (no MAX HP, steal life)              |
+|     d: Drow  (High HP)      t: Troll   (steal life)                         |
+|   IMPORTANT: TRY TO GUESS ? AND GET AWESOME ONE                             |
+|   INFO:      THIS GUY CAN EAT ENEMY TO RESTORE HP!                          |
+|                                                                             |
+|                                      Create By:     JUNDA KONG & YANG LI    |
+|                                                     Copyright@ J23Y655      |
+|=============================================================================|
